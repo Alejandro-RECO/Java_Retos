@@ -16,5 +16,6 @@ public class RetoVI {
         }
 
         System.out.println("El total es: " + total);
+        scanner.close();
     }
 }
